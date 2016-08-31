@@ -4,10 +4,10 @@
 
 | Pantallas     | Screenshots                                    | Notas |
 | ------------- |:---------------------------------------------:| -----:|
-| Home          | ![Home](http://preview.tinyurl.com/z53wbkz)        |       |
-| Mostrar       | ![Mostrar](http://preview.tinyurl.com/hnorzcz)     |       |
-| Modificar     | ![Modificar](http://preview.tinyurl.com/hxh82m9)   |       |
-| Añadir        | ![Añadir](http://preview.tinyurl.com/zu2r3qy)      |       |
-| Eliminar      | ![Eliminar](http://preview.tinyurl.com/h3jycvo)    |       |
+| Home          | ![Home](https://drive.google.com/open?id=0B0c85gHv2bZaMHBveGplcEpNN3c)     |       |
+| Añadir        | ![Añadir](https://drive.google.com/open?id=0B0c85gHv2bZaNVJkWE0zbjV0VTg)   |       |
+| Mostrar       | ![Mostrar](https://drive.google.com/open?id=0B0c85gHv2bZad0k4aXpPc2o2T3M)  |       |
+| Modificar     | ![Modificar](https://drive.google.com/open?id=0B0c85gHv2bZaWlc0bXNYaXNPelE)|       |
+| Eliminar      | ![Eliminar](https://drive.google.com/open?id=0B0c85gHv2bZaYm83Sl9hVHRmaVU) |       |
 
 
