@@ -3,7 +3,7 @@
 > Lista de Amigos 
 
 
-| Pantallas     | Screenshots                                    | Notas |
+| Pantalla     | Screenshot                                    | Notas |
 | ------------- |:---------------------------------------------:| -----:|
 | Home          | ![Home](https://lh5.googleusercontent.com/p3_Bq39sVP7FlKXS_r-R8r6rZGa9wUUT-LUIdjFKiZKmheirM55tHB5NnVzm2lyl1O9yf9SAp7WF24c=w1366-h643)|       |
 | Añadir        | ![Añadir](https://lh6.googleusercontent.com/ASrscRxXhlQ0_aaCl6AuW2lPNVcd4TS41W4W1pebbi9cxm4XCHSbZJNTKzcHH3qUx4Xe-QOnUTqiLU0=w1366-h643)|       |
