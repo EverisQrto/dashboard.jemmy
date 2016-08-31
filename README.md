@@ -2,8 +2,8 @@
 
 > Lista de Amigos 
 
-| Pantallas     | Screenshots                                        | Notas |
-| ------------- |:--------------------------------------------------:| -----:|
+| Pantallas     | Screenshots                                    | Notas |
+| ------------- |:---------------------------------------------:| -----:|
 | Home          | ![Home](http://preview.tinyurl.com/z53wbkz)        |       |
 | Mostrar       | ![Mostrar](http://preview.tinyurl.com/hnorzcz)     |       |
 | Modificar     | ![Modificar](http://preview.tinyurl.com/hxh82m9)   |       |
