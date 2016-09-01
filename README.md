@@ -1,7 +1,7 @@
 # dashboard.jemmy
 
 > Lista de Amigos 
-
+ ![Home](https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/14183872_413382265498945_5447595409507234224_n.jpg?oh=b8872e9817791f36b9d9ee1050036f8c&oe=5886498A)
 
 | Pantalla     | Screenshot                                    | Notas |
 | ------------- |:---------------------------------------------:| -----:|
