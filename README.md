@@ -1,6 +1,7 @@
 # dashboard.jemmy
 
-> Lista de Amigos 
+## Lista de Amigos 
+>by Jemima
 
 
 | Pantalla     | Screenshot                                    | Notas |
