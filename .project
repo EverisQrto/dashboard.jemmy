@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Dashboard</name>
+=======
+	<name>Dashboard.Jemmy</name>
+>>>>>>> 46381a35ed0cdc247b241ad76af4ee23e291d099
 	<comment></comment>
 	<projects>
 	</projects>
