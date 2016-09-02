@@ -1,6 +1,6 @@
 # dashboard.jemmy
 
-## Lista de Amigos  {#Amigos}
+## Lista de Amigos  <a name="Amigos"></a>
 >by Jemima
 	
 | Pantalla     | Screenshot                                    | Notas |
