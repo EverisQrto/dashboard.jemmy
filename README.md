@@ -1,6 +1,6 @@
 # dashboard.jemmy
 
-## Lista de Amigos  (#Amigos)
+## Lista de Amigos  (#amigos)
 >by Jemima
 	
 | Pantalla     | Screenshot                                    | Notas |
@@ -11,4 +11,4 @@
 | Modificar     | ![Modificar](https://drive.google.com/uc?export=view&id=0B0c85gHv2bZaWlc0bXNYaXNPelE "Modificar")|       |
 | Eliminar      | ![Eliminar](https://drive.google.com/uc?export=view&id=0B0c85gHv2bZaYm83Sl9hVHRmaVU "Eliminar")|       |
 
-a link to [Lista de amigos](#Amigos)
+a link to [Lista de amigos](#amigos)
